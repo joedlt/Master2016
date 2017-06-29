@@ -133,7 +133,7 @@ for (i in 2:15) elb[i] <- sum(kmeans(misdatos,
                                      centers=i)$withinss)
 ```
 La gráfica no muestra un punto óptimo diferenciado, existen dos puntos de inflexión como lo son el 3 y el 6.
-<img src="C:/Users/Jose/Documents/Master Data Science/TFM/Segmentacion/Zapateria cod 30005 metodo del codo.png">
+<img src="https://github.com/joedlt/Master2016/blob/master/Zapateria%20cod%2030005%20metodo%20del%20codo.png">
 
 
 
